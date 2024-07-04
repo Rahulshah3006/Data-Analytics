@@ -10,7 +10,7 @@
       - Given and json file and csv which describes the instruments and its properties in json file and ratings of particular instruments by the user rspectively.
       - So, hereby under this project I have created collabrative as well as content based recommendation model which recommends based on its ratings  by user by creatig User-User matrix and by using categories of Instruments .
 
-#NOTES:
+### NOTES:
 
 - The dataset for first project is given in respective folder
 - The dataset for second project is given in Kaggle so to download you can run it either in google colab or any env you using bwlow code 
@@ -37,7 +37,7 @@ To download the `orchestra-data-analytics` dataset from Kaggle and extract it, f
     !unzip orchestra-data-analytics.zip -d /content/
     ```
 
-### Note:
+### NOTE:
 - Replace `/content/` with the desired directory path where you want to extract the dataset files.
 
 By following these steps, you'll be able to download and extract the `orchestra-data-analytics` dataset for use in your project.
