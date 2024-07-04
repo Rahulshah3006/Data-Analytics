@@ -24,13 +24,7 @@ To download the `orchestra-data-analytics` dataset from Kaggle and extract it, f
     pip install kaggle
     ```
 
-2. **Set Up Kaggle API Credentials**:
-    - Go to your Kaggle account settings, scroll down to the API section, and click "Create New API Token". This will download a `kaggle.json` file containing your API credentials.
-    - Place the `kaggle.json` file in the appropriate location:
-        - On Linux and macOS: `~/.kaggle/kaggle.json`
-        - On Windows: `C:\Users\<YourUsername>\.kaggle\kaggle.json`
-
-3. **Download and Extract the Dataset**:
+2. **Download and Extract the Dataset**:
     - Use the following commands to download and unzip the dataset:
     ```bash
     !kaggle datasets download -d romeo62/orchestra-data-analytics
