@@ -1,3 +1,8 @@
 # Data-Analytics
 
-- This was the project for General relativity network 
+- There are two projects in this particular file of data analytics and a small description is given below 
+
+   - Project-1
+     -
+
+
